@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projec1</string>
+        <string name="Welcome">Monitory Membantu Anda\nMengontrol HP Anak</string>
+    <string name="welcome1">"Ketikan Kode Keluarga yang Ayah\nBunda miliki disini</string>
+    <string name="welcome3">Belum Punya Kode Keluarga?</string>
+    <string name="welcome4">Beli Kode Keluarga Disni</string>
+    <string name="kodeK">Kode Keluarga</string>
+    <string name="dengan">Dengan menekan tombol masuk berati Anda Menyetujui\n<b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="masuk">Masuk</string>
+    <string name="namabos">Nama Panggilan Kamu</string>
+    <string name="umur_kamu">Umur Kamu</string>
+    <string name="iniloho">Beres! Sekarang kamu\nudah bisa ngecek\npengguna HP mu\ntapi hari buat bantu kamu\nngulur waktu</string>
+</resources>

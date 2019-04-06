@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#F8F8F8</color>
+    <color name="button">#FFc50d</color>
+    <color name="button2">#FFE41E</color>
+    <color name="abu">#dedede</color>
+    <color name="biru">#8084f6</color>
+    <color name="biru2">#494dea</color>
+    <color name="item">#0B0A0E</color>
+</resources>
